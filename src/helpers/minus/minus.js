@@ -1,2 +1,1 @@
-export const minus = (a, b) => a / b;
-// oskd
+export const minus = (a, b) => a - b;
