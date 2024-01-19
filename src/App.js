@@ -12,7 +12,7 @@ function App() {
                 style={{background: 'black', color: "white", padding: 15}}
                 onClick={increment}
             >
-                incremernt
+                inc by +1
             </button>
         </div>
     );
